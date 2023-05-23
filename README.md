@@ -1,10 +1,10 @@
 # Ken_Likit_agnos_backend_internship_2023
 
-# Things needed to install.  
-1. Have Go programming language installed, code written with 1.20.4
+# Things needed to be install.  
+1. Have Go programming language installed, code written with version 1.20.4
 2. Install all files in the github repo into a folder.
 
-# To run on local computer
+# To deploy on local computer
 1. Open folder location in command line.
 2. Use the command `go run .` This will start the server on local host port 8081.
 3. To input a password for assement use curl command and change init_password field for individual test.
