@@ -5,7 +5,7 @@
 2. Install all files in the github repo into a folder.
 
 # To deploy on local computer
-1. Open folder location in command line.
+1. Download code and open folder location in command line.
 2. Use the command `go run .` This will start the server on local host port 8081.
 3. To input a password for assement use curl command and change init_password field for individual test.
 ```curl --location 'http://localhost:8081/passwordValidation' \
