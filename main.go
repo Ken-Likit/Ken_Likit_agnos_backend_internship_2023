@@ -90,9 +90,9 @@ func strongPassword(password string) int {
 
 	if missingType > formatChange {
         totalChange = missingType
-    } else {
+    	} else {
         totalChange = formatChange
-    }
+    	}
 
 	return totalChange
 }
